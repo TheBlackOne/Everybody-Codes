@@ -1,9 +1,8 @@
-input = """WORDS:ABC
+input = """WORDS:THE,OWE,MES,ROD,RODEO
 
-DDDA
-DDDB
-DDDC
-DDDD"""
+HELWORLT
+ENIGWDXL
+TRODEOAL"""
 
 words, phrase = input.split('\n\n')
 _, words = words.split(':')
